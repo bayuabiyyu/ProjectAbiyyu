@@ -1,6 +1,8 @@
 SELAMAT DATANG DI REPOSITORY PROJECTKU
 
 Berikut cara untuk deploy project
+*Note: Harap install composer dahulu https://getcomposer.org/
+Jika sudah install maka langsung ke step 1
 
 1. Clone atau Download Project dalam Repository ini
 2. Masuk ke terminal/cmd dan masuk ke folder ProjectAbiyyu (contoh : cd ProjectAbiyyu)
